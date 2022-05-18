@@ -1,2 +1,2 @@
 # leetcode
-This is record for my leetcode solution with python3
+This is record for my leetcode solution. All the solutions are based on Python3.
